@@ -11,6 +11,7 @@ Simple nodeJS code for a quick functionality test in Docker/Kubernetes. Not inte
 # How To
 
 Feel free to clone for manual usage or docker pull h0lmstr0m/meowllo-nyan-cat for Docker testing.
+
 To test: simply pull the image -> run locally with port map 3000:3000 -> open new SSH session to localhost -> run curl localhost:3000
 
 Bask in the glory of Nyan Cat!
